@@ -9,8 +9,6 @@ public class Ejercicio3 {
       v5 = 1;
       v6 = 11;
       respuesta = (Math.pow(v1, v2)+Math.sqrt(16)+ 20/1+11);
-      System.out.println("respuesta = " + respuesta);
-      
-              
-              }
+      System.out.println("respuesta = " + respuesta);              
+    }
 }

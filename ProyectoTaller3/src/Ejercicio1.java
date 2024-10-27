@@ -10,6 +10,5 @@ public class Ejercicio1 {
         v6 = 81;
         respuest =((v1+v2+v3+v4)/v5) + Math.sqrt(v6);
         System.out.println("respuest = " + respuest);
-                
     }
 }
